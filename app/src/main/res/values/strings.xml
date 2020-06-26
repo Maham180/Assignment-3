@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email_error">Please enter a email address</string>
+    <string name="error_invalid_email">Email is not valid</string>
+    <string name="name_error">Please enter a Name</string>
+    <string name="error_invalid_name">Name is not valid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string-array name="Contacts">
+        <item>Maham</item>
+        <item>Noor</item>
+        <item>Maryam</item>
+        <item>Mashal</item>
+        <item>Ramsha</item>
+        <item>Hina</item>
+        <item>Usman</item>
+        <item>Iqra</item>
+
+    </string-array>
+</resources>
